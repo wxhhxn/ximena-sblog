@@ -102,9 +102,7 @@ theme: hexo-theme-matery
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repository: git@e.coding.net:ximena/myblog/myself.git #复制过来
-  branch: master
+  type: ''
 
 # add npm i hexo-permalink-pinyin --save
 permalink_pinyin:
